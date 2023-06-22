@@ -1,0 +1,24 @@
+import os from "node:os";
+
+// console.info(os.platform());
+// console.info(os.EOL);
+// console.info(os.availableParallelism());
+// console.info(os.arch());
+// console.info(os.constants);
+// console.info(os.hostname());
+console.info(os.version());
+// console.table(os.cpus());
+// console.info(os.devNull);
+// console.info(os.endianness());
+// console.info(os.freemem());
+// console.info(os.homedir());
+// console.info(os.loadavg());
+// console.info(os.machine());
+// console.info(os.networkInterfaces());
+// console.info(os.platform());
+// console.info(os.release());
+// console.info(os.tmpdir());
+// console.info(os.totalmem());
+// console.info(os.type());
+// console.info(os.uptime());
+// console.info(os.userInfo());
